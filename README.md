@@ -1,8 +1,5 @@
-- 👋 Hi, I’m @David-F1
-- 👀 I’m interested in tech as a whole 
-- 🌱 I’m currently learning C# and C++
-- 💞️ I’m looking to collaborate on any C# project or C++  that will help me increase my performance
-- 📫 you can reach me at davidfotsing12@gmail.com
+a Random dude who love tech
+feel free to hit me at coderdark9@gmail.com
 
 <!---
 David-F1/David-F1 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
